@@ -23,7 +23,11 @@ products = [
     # Add all your products here (total 12)
     {"image": "Used/DeepLearningCourse.png", "title": "Поколение ИИ: Практическое Глубокое Обучение с Pytorch", "details_url": "#", "buy_url": "#"},
     {"image": "Used/LogicCourse.png", "title": "Логика и Теория Игр для ИИ, Аналитики Данных и Data Science", "details_url": "#", "buy_url": "#"},
-    
+    {"image": "Used/ComputerVisionCourse.png", "title": "Компьютерное Зрение: Большой, Практический Курс", "details_url": "#", "buy_url": "#"},
+    {"image": "Used/MathForMLCourse.png", "title": "Математика для Машинного Обучения и Data Science", "details_url": "#", "buy_url": "#"},
+    {"image": "Used/StatsCourse.png", "title": "Статистика и ТерВер: Большой Практический Курс с Нуля", "details_url": "#", "buy_url": "#"},
+    {"image": "Used/ReinforcementLearningCourse.png", "title": "Обучение с Подкреплением: ИИ для Компьютерных Игр и Роботов", "details_url": "#", "buy_url": "#"},
+    {"image": "Used/DiffusionCourse.png", "title": "Поколение ИИ: Нейросети-Диффузеры. Большой Практический Курс.", "details_url": "#", "buy_url": "#"},
 ]
 
 # Function to set a background image
